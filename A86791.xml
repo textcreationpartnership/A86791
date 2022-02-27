@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the commons of the City of London in Common Councel assembled, to the Honorable, the Commons of England in Parliament assembled. With a narrative of the proceedings of the Court of Common-Councel: and the vote of the House of Parliament, and their answer thereupon. Together with Colonel Titchborn's speech, made in the Honorable House of Commons at the delivery of the said petition and narrative. Ordered by the Commons ... that this petition ... be forthwith printed ...</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86791</idno>
+            <idno type="STC">Wing H3499</idno>
+            <idno type="STC">Thomason E538_16</idno>
+            <idno type="STC">ESTC R202517</idno>
+            <idno type="EEBO-CITATION">99862769</idno>
+            <idno type="PROQUEST">99862769</idno>
+            <idno type="VID">164876</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86791)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164876)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E538[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the commons of the City of London in Common Councel assembled, to the Honorable, the Commons of England in Parliament assembled. With a narrative of the proceedings of the Court of Common-Councel: and the vote of the House of Parliament, and their answer thereupon. Together with Colonel Titchborn's speech, made in the Honorable House of Commons at the delivery of the said petition and narrative. Ordered by the Commons ... that this petition ... be forthwith printed ...</title>
+                  <author>City of London (England). Court of Common Council.</author>
+                  <author>Tichborne, Henry, Sir, 1581?-1667.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Peter Cole, at the sign of the Printing-Press in Cornhil, at the Royal Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Jan. 16. 1648. [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Both petition and reply are dated 15 Jan. 1648[/9].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164876:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <p>THE HUMBLE PETITION OF The Commons of the City of LONDON IN Common Councel ASSEMBLED, To the Honorable, The <hi>Commons</hi> of <hi>England</hi> IN PARLIAMENT ASSEMBLED.</p>
+            <p>With a NARRATIVE of the Proceedings of the Court of <hi>COMMON-CO<g ref="char:V">Ʋ</g>NCEL:</hi> And the VOTE of the Houſe of Parliament, and their Anſwer thereupon.</p>
+            <p>Together with Colonel <hi>Titchborn</hi>'s SPEECH, made in the Honorable Houſe of Commons at the delivery of the ſaid Petition and Narrative.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>ORdered by the Commons aſſembled in Parliament, That this</hi> Petition and Narrative, and Anſwer of the Houſe thereunto, and Vote thereupon, <hi>be forthwith Printed and Pub<g ref="char:EOLhyphen"/>liſhed:</hi>
+                        </p>
+                        <closer>
+                           <signed>H: Scobel, Cler. Parl. D. Com..</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Peter Cole,</hi> at the Sign of the Printing-Preſs in Cornhil, at the Royal Exchange, <hi>Jan.</hi> 16. 1648.</p>
+         </div>
+         <div type="frontispiece">
+            <p>
+               <figure>
+                  <figDesc>blazon or coat of arms of the City of London</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:164876:2"/>
+            <!-- PDF PAGE 9 -->
+            <pb n="3" facs="tcp:164876:2"/>
+            <!-- PDF PAGE 9 -->
+            <head>
+               <date>Die Lunae, <hi>15</hi> Januarii, <hi>1648.</hi>
+               </date>
+            </head>
+            <p>
+               <hi>THe Houſe being informed, That di<g ref="char:EOLhyphen"/>vers of the Common-councel of the city of</hi> London <hi>were at the door, they were called in, and Col:</hi> Titchburn, <hi>in the name of the Commons of the city of</hi> London <hi>made a ſhort preamble as followeth:</hi>
+            </p>
+            <div type="speech">
+               <opener>
+                  <salute>Mr. SPEAKER,</salute>
+               </opener>
+               <p>THe Commons of the city of <hi>London</hi> in Com<g ref="char:EOLhyphen"/>mon-councel aſſembled, have appointed theſe Gentlemen, with my ſelf, to preſent their humble Pe<g ref="char:EOLhyphen"/>tition to the Honorable Houſe this morning, I ſhall spend none of your precious time in any preparatory speech, hoping our Petition will speak for it ſelf, were it not that ſome part of the Title is abſent from this Petition, which doth uſually attend this Hono<g ref="char:EOLhyphen"/>rable Houſe in Petitions of this nature; nor ſhall <hi>I</hi> speak to the cauſe of ſuch an abſence, becauſe the Court it ſelf hath in a ſhort Narrative given this honorable Houſe ſome account thereof, which <hi>I</hi> have here, to preſent with this our Petition; onely this, give ſome account, why we could not in judgement and conſcience defer the preſenting this Petition:
+<pb n="4" facs="tcp:164876:3"/>
+                  <!-- PDF PAGE 10 -->Firſt, Becauſe the matter of it, as we humbly con<g ref="char:EOLhyphen"/>ceive, containeth in ſubſtance that which many of us hath ventured our lives for, and all of us our eſtates in a meaſure beyond proportion. Secondly, In regard of the ſeaſon, we being ſenſible that our ſtaying hitherto might without a very favorable interpretation from this Honorable Houſe be ac<g ref="char:EOLhyphen"/>counted ſlowneſs in our duty, and if we had yet forborn, to have begot a jealouſie that we have loſt our firſt love: But give us leave to ſay, That we ſtand here with the ſame truth of heart, and publike Principles, which we firſt ingaged withal in this publike cauſe; onely herein we confeſs to differ, That the great experience which God hath given us in this Seven years time, hath begotten more light in us, by which we have a clear underſtand<g ref="char:EOLhyphen"/>ing of perſons and things, whereby we are advan<g ref="char:EOLhyphen"/>taged, and the more reſolvedly fixed to live and dye in the maintaining of this publike cauſe with this Honorable Houſe.</p>
+               <p>This Petition speaks our Deſires, the Narra<g ref="char:EOLhyphen"/>tive our Grievance, both which we crave leave to preſent to this Honorable Houſe.</p>
+            </div>
+         </div>
+         <div type="petition">
+            <pb n="5" facs="tcp:164876:3"/>
+            <!-- PDF PAGE 10 -->
+            <head>
+               <hi>To the Honorable, The</hi> Commons <hi>of</hi> England <hi>aſſembled in Parliament:</hi> The humble Petition of the Commons of the City of <hi>London</hi> in Common-Councel aſſembled,</head>
+            <opener>SHEWETH,</opener>
+            <p>THat ſeriouſly weighing thoſe unſpeak<g ref="char:EOLhyphen"/>able toils, difficulties, dangers, and temptations, in every kinde, wherewith you have been hotly aſſaulted for many years together, by the powerful influence whereof, many great pretenders to the pub<g ref="char:EOLhyphen"/>lique intereſt have been wrought off from the ſame; And withal, conſidering that all theſe, notwithſtanding you have ſtood like a mighty Rock, firm and conſtant to your Truſt, and are now acting after ſuch a Rate as our dead hopes break forth with tri<g ref="char:EOLhyphen"/>umph from their Graves, We cannot but with inlarged hearts bleſs the God of Hea<g ref="char:EOLhyphen"/>ven for you, and (if it were poſsible) in the hearing of the whole world, proclaime
+<pb n="6" facs="tcp:164876:4"/>
+               <!-- PDF PAGE 11 -->our thankfulneſs to you for the ſame.</p>
+            <p>And apprehending, That the Non-Exe<g ref="char:EOLhyphen"/>cution of Juſtice, the Intruſting of the Mi<g ref="char:EOLhyphen"/>litia, and Navy in the hands of Neutraliſts, unfaithful, and diſ-affected Perſons; the great decay of Trade, the protecting of ma<g ref="char:EOLhyphen"/>ny mens Perſons and Eſtates from the due courſe of Law, and the unſettled condition of this Nation, are ſome of the great and principal Evils under which the hearts of thouſands of your friends (yea the whole Land) groan; We humbly pray,</p>
+            <p n="1">1 That as you have begun to advance the Intereſt of unpartial Juſtice, ſo you would vigorouſly proceed in the Execution thereof upon all the Grand and Capital Au<g ref="char:EOLhyphen"/>thors, Contrivers of, and Actors in, the late Wars againſt the Parliament and Kingdom, from the higheſt to the loweſt; that the wrath of God may be appeaſed, good men ſatisfied, and evil men deterred from adven<g ref="char:EOLhyphen"/>turing upon the like practiſes for the fu<g ref="char:EOLhyphen"/>ture.</p>
+            <p n="2">2 That the Militia, Navy, and all Places of power, may be put in the hands of none
+<pb n="7" facs="tcp:164876:4"/>
+               <!-- PDF PAGE 11 -->but ſuch as by a conſtant and uniform te<g ref="char:EOLhyphen"/>nour of their words and actions, have ap<g ref="char:EOLhyphen"/>proved themſelves faithful unto you, and the juſt rights of the Nation.</p>
+            <p n="3">3 That with all convenient ſpeed you would think upon ſome effectual courſe for the recovery, and increaſing of the almoſt loſt Trade and Manufacture of this City and Kingdom.</p>
+            <p n="4">4 That no Priviledge whatſoever may exempt any from the juſt ſatisfaction of their due debts.</p>
+            <p n="5">5 That having by your Votes of the 4th of this inſtant January, Declared, That the Commons of England in Parliament Aſ<g ref="char:EOLhyphen"/>ſembled, have the Supream power of this Nation; you would (as far as you are able) endeavour the ſetling thereof upon founda<g ref="char:EOLhyphen"/>tions of Righteouſneſs and Peace; In the maintenance, and proſecution of which Votes, and of theſe our juſt and humble de<g ref="char:EOLhyphen"/>ſires, We are reſolved to ſtand by you to the uttermoſt of our power, againſt all oppo<g ref="char:EOLhyphen"/>ſition whatſoever.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="account">
+                        <pb n="8" facs="tcp:164876:5"/>
+                        <!-- PDF PAGE 12 -->
+                        <head>A Narrative of the Proceedings of the Court of Common-Councel, held in Guild-hall <hi>London</hi> the 13 of Jan. 1648. humbly preſented by Order of the ſaid Court, To the Honorable, The Commons of <hi>England</hi> aſſembled in Parliament.</head>
+                        <p>A Common-councel being lawfully ſummoned to meet at eight of the clock in the morning, upon the day above written, We Commoners of the city of London, Members of the ſaid Court, in obedience to the ſaid ſummons, and for diſcharge of the Truſt repoſed in us, made our appearance at the uſual place of meet<g ref="char:EOLhyphen"/>ing for the ſaid Court about the time ap<g ref="char:EOLhyphen"/>pointed: About eleven of the clock the Lord Major, accompanyed onely with two of the Aldermen, took the chair; We then deſiring the Lord Major, that the Acts of the laſt Court might be read according to the uſual courſe of the ſaid Court, and for the further confirmation of the ſaid Acts, could not obtain the ſame (though earneſt<g ref="char:EOLhyphen"/>ly deſired for above an hours ſpace; after which, ſome Members of the ſaid Court (being part of a Committee formerly cho<g ref="char:EOLhyphen"/>ſen
+<pb n="9" facs="tcp:164876:5"/>
+                           <!-- PDF PAGE 12 -->by the ſaid Court) tendered a Petition thereunto to be read and conſidered of; which Petition being the ſame now preſent<g ref="char:EOLhyphen"/>ed to this Honorable Houſe, was drawn up by them in reference to an Order of the Court, and received the approbation of the major part of the <hi>quorum</hi> of that Commit<g ref="char:EOLhyphen"/>tee; and though it was often and earneſt<g ref="char:EOLhyphen"/>ly preſt for a long time by the major part of the Court that it might be read, to receive the ſence of the Court, yet the Lord Major wholly refuſed to ſuffer the ſame, or that the queſtion ſhould be put whether it ſhould be read, yea or no: After the fruitleſs expence of many hours, another queſtion being drawn up, the major part of the Court required it to be put to be decided according to the Right and cuſtom of the court; and being denied therein, declared how unjuſt, and of what a deſtructive nature to the being of the Court, ſuch a denial would be; yet not<g ref="char:EOLhyphen"/>withſtanding the Lord Major with the two Aldermen departed, and left the Court ſitting, to the great grief, and general diſ<g ref="char:EOLhyphen"/>ſatisfaction of the ſame. Being thus depri<g ref="char:EOLhyphen"/>ved
+<pb n="10" facs="tcp:164876:6"/>
+                           <!-- PDF PAGE 13 -->of our ordinary aſsiſtance for our pro<g ref="char:EOLhyphen"/>ceedings, we did then require and com<g ref="char:EOLhyphen"/>mand the common-Sergeant and Town-clerk, Officers of the ſaid court, to ſtay in the court and put the queſtion; both which they contemptuouſly refuſed, and left the court ſitting likewiſe. Whereupon, in diſ<g ref="char:EOLhyphen"/>charge of our Truſt, and in our tender care of the common good of the city and King<g ref="char:EOLhyphen"/>dom, we did ſtay and remain a court, where<g ref="char:EOLhyphen"/>in was thrice read, debated and voted <hi>(Ne<g ref="char:EOLhyphen"/>mine contradicente)</hi> the Petition hereunto an<g ref="char:EOLhyphen"/>nexed, to be as this day preſented to this Honorable Houſe.</p>
+                        <p>Having given this Honorable Houſe this brief, but true Narrative of part of our ſuf<g ref="char:EOLhyphen"/>ferings for eight hours at leaſt, in the breach (as we conceive) of our undoubted Rights and Priviledges; and conceiving the like obſtructions would render our meetings in councel altogether fruitleſs; for publike be<g ref="char:EOLhyphen"/>nefit and ſervice for the future, We are for<g ref="char:EOLhyphen"/>ced to appeal to this Honorable Houſe, for ſuch conſiderations hereof, and directions herein, as may make the Commons of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi>
+                           <pb n="11" facs="tcp:164876:6"/>
+                           <!-- PDF PAGE 13 -->in Common councel aſſembled, uſeful to the ends for which they were choſen.</p>
+                        <p>
+                           <hi>Which Petition and Narrative, after the Petitio<g ref="char:EOLhyphen"/>ners were with-drawn, were read, and were Inti<g ref="char:EOLhyphen"/>tuled,</hi> The humble Petition of the Com<g ref="char:EOLhyphen"/>mons of the City of <hi>London</hi> in Common-Councel Aſſembled: A Narrative of the proceedings of the court of Common coun<g ref="char:EOLhyphen"/>cel held in Guild hall <hi>London,</hi> the 13 of Janu<g ref="char:EOLhyphen"/>ary, 1648. Humbly preſented by the Order of the ſaid Court, to the Honorable, the Commons of Eng<g ref="char:EOLhyphen"/>land Aſſembled in Parliament.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <div type="resolution">
+               <opener>
+                  <dateline>
+                     <date>Die Lunae, 15 Ianuarii, 1648.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>REſolved upon the queſtion by the Commons in Parliament aſſembled, That the Commons of</hi> England <hi>in Parliament aſſembled do Declare, That the Petition this day preſented to the Houſe, and Intituled,</hi> The humble Petition of the Commons of the City of <hi>London</hi> in Com<g ref="char:EOLhyphen"/>mon councel aſſembled; together with a Narrative thereunto annexed, of the procee<g ref="char:EOLhyphen"/>ding of the Court of Common councel held in Guild hall <hi>London,</hi> 13 January 1648.</p>
+               <closer>And preſented by the Order of the ſaid Court, to
+<pb n="12" facs="tcp:164876:7"/>
+                  <!-- PDF PAGE 14 -->this Houſe, may, and of Right, ought to be entered in the Books, and among the Acts of the Common Councel there.</closer>
+            </div>
+            <div type="answer">
+               <p>The Petitioners being again called in, Mr. Speaker by command of this Houſe gave them this Anſwer, <hi>The Houſe hath read your Petition and Narrative, and commanded me to return you this Anſwer, as to the Com<g ref="char:EOLhyphen"/>mon-Councel of the City of</hi> London, <hi>and ſo owned by this Houſe.</hi>
+               </p>
+               <p>They take notice of the extraordinary good affe<g ref="char:EOLhyphen"/>ctions, long ſence, and often expreſſed by many par<g ref="char:EOLhyphen"/>ticular perſons, if not by every Member of your preſent Body; eſpecially of that true &amp; publike Prin<g ref="char:EOLhyphen"/>ciple, which carried you on to the framing of this Pe<g ref="char:EOLhyphen"/>tition, and to your going through with it, notwith<g ref="char:EOLhyphen"/>ſtanding the oppoſition and withdrawing of your Major and Aldermen.</p>
+               <p>I am withal to tell you, That the Houſe doth ful<g ref="char:EOLhyphen"/>ly approve of your Acting and Reſolving by your ſelves, as a Common Councel in caſe of abſence or diſſent in the Major, or Aldermen, or both together: and they do give you very hearty Thanks for your free and cheerful tender of your Aſſiſtance to this Houſe: And you may aſſure your ſelves, That the Service you offer here, ſhall always, by Gods grace, be made uſe of to the advantage of the Engliſh Na<g ref="char:EOLhyphen"/>tion, and therein of the City of <hi>London:</hi> In order whereunto, they have Reſolved to take the ſeveral Contents of your Petition, and of your Narrative, into ſerious and ſpeedy Conſideration; and have appointed a Committee for that purpoſe.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
